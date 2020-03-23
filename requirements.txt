@@ -1,0 +1,7 @@
+docx2txt==0.8
+nltk==3.4.5
+gensim==3.8.1
+rank-bm25==0.2
+pprint==0.1
+numpy==1.16.4
+pyTelegramBotAPI
